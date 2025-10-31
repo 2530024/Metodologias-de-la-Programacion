@@ -22,7 +22,7 @@ Los nombres de las variables en Python deben nombrarse solo con:
 
 charly_message = "Charly es un buen profe"
 print (charly_message)
-print(charly_message)
+print (charly_message)
 
 """
 Traceback: Es un registro de donde el interprete 
