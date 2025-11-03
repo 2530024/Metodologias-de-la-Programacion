@@ -79,3 +79,25 @@ famous_person = "Mario Benedetti"
 frase = "No quiero otra compañia que tu risa"
 message_f_string = f"{famous_person} una vez dijo {frase}"
 print(message_f_string)
+
+#Whitespaces
+"""
+    Whitespace se a cualquier caracter que no se imprime,
+    es decir, un tabulador y dinales de linea. Los whitespaces
+    se utilizan comunmente para organizar las salidas (prints)
+    de tal manera que sea mas amigable de leer o ver para los usuarios
+
+"""
+
+#Ejemplos
+print("Python")
+print("\tPython") #Tabulador
+print("\t\tPython") #Tabulador
+
+#Ejemplos Salto de linea
+print("Languages: \n Python \n C \n Javascript")
+
+#Eliminacion de espacios en blanco
+programming_lenguages = " Python "
+print(programming_lenguages)
+print(programming_lenguages.lstrip())
