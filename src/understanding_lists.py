@@ -75,10 +75,55 @@ motorcycles.remove("suzuki")
 print(motorcycles)
 
 #Ejemplo practico del metodo remove()
-names = ["ana", "carlos", "maria", "carlos"]
+names = ["ana", "carlos", "maria", "juan"]
 print("\nEjemplo practico del metodo remove()")
+print(names)
 deleted_name = input("Ingresa un nombre para eliminar de la lista: ")
 names.remove(deleted_name.strip().lower())
 print(names)
 
+"""
+    Ordenar elementos en una lista
+        -sort(): Ordena los elementos de una lista en orden alfabetico o numerico.
+    El metodo sort() modifica la lista original para que sus elementos esten en orden.
+"""
 
+cars = ["bmw", "audi", "toyota", "subaru", "ford", "kia"]
+print("\nOrdenar elementos en una lista con sort()")
+cars.sort()
+print(cars)
+cars.sort(reverse=True)
+print(cars)
+
+"""
+    Invertir el orden de los elementos en una lista
+        -reverse(): Invierte el orden de los elementos en una lista.
+    Metodo reverse()
+"""
+
+motorcycles = ["honda", "yamaha", "suzuki", "ducati"]
+print("\nInvertir el orden de los elementos en una lista con reverse()")
+print(motorcycles)
+motorcycles.reverse()
+print(motorcycles)
+
+"""
+    Obtener la longitud de una lista
+        -len(): Devuelve el numero de elementos en una lista.
+    Metodo built-in len()
+"""
+
+cars = ["bmw", "audi", "toyota", "subaru"]
+print("\nObtener la longitud de una lista con len()")
+print(f'La cantidad de elementos en la lista es: {len(cars)}')
+
+"""
+    Metodo built-in 
+        sorted(): Devuelve una nueva lista temporalmente
+    
+"""
+
+favorite_students = ["jorge", "Jose", "carlos", "emiliano"]
+print(favorite_students)
+
+print(sorted(favorite_students))
