@@ -52,3 +52,6 @@ print(f"Lista original: {digits}")
 print(f"Minimo: {min(digits)}") #Salida Minimo: 0
 print("Valor maximo:", max(digits)) #Salida Valor maximo: 9
 print("Suma de todos los elementos:", sum(digits)) #Salida Suma de todos los elementos: 45
+
+squares = [ num **2 for num in range(10)]
+print(squares)
