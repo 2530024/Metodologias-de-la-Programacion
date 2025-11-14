@@ -36,3 +36,7 @@ Traceback: Es un registro de donde el interprete
 
     NameError: Significa que la variable no tiene valor de una variable asignada
 """
+
+##Variables de tipo boolano
+game_active = True
+can_edit = False
