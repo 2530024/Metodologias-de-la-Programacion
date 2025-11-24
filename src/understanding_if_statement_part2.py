@@ -37,9 +37,22 @@ else:
         -SI la edad es menor e igual a 4 entonces la entrada es gratuita
         -Si la edad es menor e igual a 18m, pero mayor que 4
         entonces la entrada cuesta $200
-        -Si la edad es mator que 18, entonces la entrada cuesta $400
+        -Si la edad es mayor que 18, entonces la entrada cuesta $400
 
 """
+#Tarea
+try:
+    age = int(input("Por Favor, Ingrese su edad:"))
+    if age <= 4:
+        print("La entrada es gratuita")
+    elif age <= 18 and age > 4:
+        print("La entrada cuesta $200")
+    elif age > 18:
+        print("La entrada cuesta $400")
+    else:
+        print("Error")
+except:
+    print("Tuviste un error")    
 
 #Multiple
 guisos = ["desgebrada", "asado", "salsa verde", "pozole"]
