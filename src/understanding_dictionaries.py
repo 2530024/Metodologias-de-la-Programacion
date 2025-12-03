@@ -42,3 +42,49 @@ for value in favorite_languages.values():
 ##Listas de diccionarios
 ##Listas en diccionarios
 ##Diccionarios en diccionarios
+"""
+    Listas dentro de diccionarios
+    un diccionario puede almacenar cualquier tipo de dato como valor
+     
+    Sintaxis:
+    diccionario = {
+    "clave": [valor1, valor2, valor3]
+    }
+    Ejemplo:
+    estudiante = {
+    "nombre": "Luis",
+    "calificaciones": [9, 8, 10, 7]
+}
+
+print(estudiante["calificaciones"][2])   # Acceder al tercer elemento → 10
+"""
+
+"""
+    Diccionarios dentro de diccionarios
+
+    Sintaxis:
+    diccionario = {
+    "clave1": {
+        "subclave1": valor,
+        "subclave2": valor
+    },
+    "clave2": {
+        "subclaveA": valor,
+        "subclaveB": valor
+    }
+}
+    Ejemplo:
+    usuarios = {
+    "user01": {
+        "nombre": "Ana",
+        "edad": 20
+    },
+    "user02": {
+        "nombre": "Carlos",
+        "edad": 25
+    }
+}
+print(usuarios["user02"]["nombre"])  # Acceso a un valor interno → "Carlos"
+"""
+
+#Estudiar el metodo get() de los diccionarios
