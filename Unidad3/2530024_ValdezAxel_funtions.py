@@ -396,16 +396,19 @@ Los casos son calculos repetidos, Validaciones (email, rango, tipo), operaciones
 La logica principal debe ser clara y llamar a funciones bien definidas para mantener la legibilidad y facilitar el mantenimiento del código.
 
 REFERENCIAS:
-1) Python documentation – Defining Functions (def, return, parameters, scope).
+1) Python documentation - Defining Functions (def, return, parameters, scope).
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 
-2) Python documentation – Functions and Variable Scope.
+2) Python documentation - Functions and Variable Scope.
     https://docs.python.org/3/reference/executionmodel.html#naming-and-binding
 
-3) “Automate the Boring Stuff with Python” – Capítulos sobre funciones, parámetros y retorno.
+3) “Automate the Boring Stuff with Python” - Capítulos sobre funciones, parámetros y retorno.
 
 4) Libros y apuntes de algoritmos y programación básica utilizados en cursos universitarios (UNAM, MIT OCW, etc.).
 
 5) Artículos sobre diseño de funciones, buenas prácticas y modularización del código
     (Real Python, GeeksforGeeks, Programiz).
+
+URL DEL REPOSITORIO EN GITHUB:
+https://github.com/2530024/Metodologias-de-la-Programacion
 """

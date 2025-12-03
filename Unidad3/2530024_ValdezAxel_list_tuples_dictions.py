@@ -7,7 +7,7 @@ Grupo: IM 1-2
 Resumen Ejecutivo:
 Las listas, tuplas y diccionarios son estructuras fundamentales en Python: 
 las listas almacenan elementos ordenados y modificables, las tuplas guardan datos ordenados pero no pueden cambiarse,
-y los diccionarios organizan información mediante pares clave–valor. 
+y los diccionarios organizan información mediante pares clave-valor. 
 Que una lista sea mutable significa que sus elementos pueden agregarse, eliminarse o alterarse,
 mientras que la inmutabilidad de una tupla impide cualquier modificación después de creada. 
 Los diccionarios permiten acceder rápidamente a información asociando claves únicas con valores específicos,
@@ -430,11 +430,13 @@ o listas de diccionarios para manejar registros más complejos.
 Elegir la estructura correcta depende del nivel de cambio esperado y de cómo se necesite consultar la información.
 
 REFERENCIAS:
-1) Python documentation – Built-in Types: list, tuple, dict. https://docs.python.org/3/library/stdtypes.html
-2) Python Tutorial – Data Structures (listas, tuplas, diccionarios). https://docs.python.org/3/tutorial/datastructures.html
-3) “Automate the Boring Stuff with Python” – Capítulos sobre colecciones y estructuras de datos.
+1) Python documentation - Built-in Types: list, tuple, dict. https://docs.python.org/3/library/stdtypes.html
+2) Python Tutorial - Data Structures (listas, tuplas, diccionarios). https://docs.python.org/3/tutorial/datastructures.html
+3) “Automate the Boring Stuff with Python” - Capítulos sobre colecciones y estructuras de datos.
 4) Apuntes de algoritmos y programación básica de cursos universitarios (UNAM, MIT OCW, etc.).
 5) Artículos y guías de buenas prácticas en el uso de colecciones en Python (Real Python, GeeksforGeeks).
 6) Notas de clase sobre modelado de información y organización de datos en Python.
 
+URL DEL REPOSITORIO EN GITHUB:
+https://github.com/2530024/Metodologias-de-la-Programacion
 """

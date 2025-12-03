@@ -359,19 +359,22 @@ except ValueError:
 
     REFERENCIAS:
     # REFERENCIAS
-1.  Python Documentation – Built-in Types: Numeric Types (int, float, complex).
+1.  Python Documentation - Built-in Types: Numeric Types (int, float, complex).
     https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 
-2. Python Documentation – Boolean Type (bool).
+2. Python Documentation - Boolean Type (bool).
     https://docs.python.org/3/library/stdtypes.html#boolean-values
 
 3. Tutorial oficial de Python: Operadores aritméticos, relacionales y lógicos.
     https://docs.python.org/3/reference/expressions.html
 
-4. Cormen, Leiserson, Rivest & Stein – "Introduction to Algorithms" (Capítulos de fundamentos).
+4. Cormen, Leiserson, Rivest & Stein - "Introduction to Algorithms" (Capítulos de fundamentos).
 
 5. Apuntes de programación básica y validación de datos numéricos de cursos introductorios 
     (por ejemplo, materiales docentes de universidades como MIT OCW o UNAM).
 
-6. Sweigart, Al – “Automate the Boring Stuff with Python” (capítulos de tipos de datos y control de flujo).
+6. Sweigart, Al - “Automate the Boring Stuff with Python” (capítulos de tipos de datos y control de flujo).
+
+URL DEL REPOSITORIO EN GITHUB:
+https://github.com/2530024/Metodologias-de-la-Programacion
 """

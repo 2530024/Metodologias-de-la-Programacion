@@ -428,17 +428,20 @@ Aprendi que es raro los bucles anidados pero sirven para patrones y estructuras 
 
 REFERENCIAS:
 # References:
-1) Python documentation – The for statement and while statement.
+1) Python documentation - The for statement and while statement.
     https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
     https://docs.python.org/3/reference/compound_stmts.html#the-while-statement
     
-2) Python Tutorial – Control Flow Tools (incluye for, while y break/continue).
+2) Python Tutorial - Control Flow Tools (incluye for, while y break/continue).
     https://docs.python.org/3/tutorial/controlflow.html
     
-3) “Automate the Boring Stuff with Python” – Secciones sobre bucles, contadores y acumuladores.
+3) “Automate the Boring Stuff with Python” - Secciones sobre bucles, contadores y acumuladores.
 
 4) Libros y apuntes de algoritmos y programación básica (UNAM, MIT OCW, CUCEI, etc.).
 
 5) Artículos educativos sobre patrones comunes con bucles en Python:
     recorridos, validaciones, menús y lectura repetitiva (Real Python, GeeksforGeeks).
+
+URL DEL REPOSITORIO EN GITHUB:
+https://github.com/2530024/Metodologias-de-la-Programacion
 """

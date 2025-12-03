@@ -79,7 +79,7 @@ Salidas:
     - "Items list:" y luego la lista de elementos (formato libre pero legible).
 
 Validaciones:
-- option debe ser una de las opciones definidas (por ejemplo 0–5).
+- option debe ser una de las opciones definidas (por ejemplo 0-5).
 - item_id no vacío tras strip().
 - price y quantity deben ser números válidos:
     - price >= 0.0
@@ -328,8 +328,10 @@ antes de procesar los datos. Este CRUD podría ampliarse guardando información 
 como JSON o integrándolo con una base de datos para mantener persistencia y estructuras más complejas.
 
 REFERENCES:
-1) Python Documentation – Data Structures (List, Dict)
-2) Python Documentation – Functions and Scope
+1) Python Documentation - Data Structures (List, Dict)
+2) Python Documentation - Functions and Scope
 3) Tutoriales de CRUD en memoria con Python (material de cursos y guías educativas)
 
+URL DEL REPOSITORIO EN GITHUB:
+https://github.com/2530024/Metodologias-de-la-Programacion
 """

@@ -222,5 +222,8 @@ Documentación oficial de Python (Strings): https://docs.python.org/3/library/st
 W3Schools - Python Strings: https://www.w3schools.com/python/python_strings.asp
 Programiz - String Methods in Python: https://www.programiz.com/python-programming/methods/string
 Tutoriales de Python en “Aprende Python”: https://aprendepython.com/cursos/python-desde-cero/
-Python para Todos (capítulo de cadenas) – Dr. Charles Severance: https://py4e.com/es/book.php?chapter=6
+Python para Todos (capítulo de cadenas) - Dr. Charles Severance: https://py4e.com/es/book.php?chapter=6
+
+URL DEL REPOSITORIO EN GITHUB:
+https://github.com/2530024/Metodologias-de-la-Programacion
 """
